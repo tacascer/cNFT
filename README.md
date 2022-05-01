@@ -1,5 +1,7 @@
 This project is created for Fintech Hackathon 2022. We forked the Ethereum-NFT-Marketplace, switched it to the Rinkeby testnet, and deployed a contract on Remix to interact with the frontend.
 
+Team members: Tim Tran, Cissy He, Nicole Yu
+
 # `ethereum-boilerplate-NFT-Marketplace`
 
 This Project is a fork of Ethereum Boilerplate and demostrates how you can build your own NFT Marketplace. This project of course work on any EVM-compatible blockchain such as Polygon, Avalanche, Binance Smart Chain and other such chains.
